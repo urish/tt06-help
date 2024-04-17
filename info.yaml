@@ -4,7 +4,7 @@ project:
   title:        "HELP for tinyTapeout"      # Project title
   author:       "Ariella Eliassaf"      # Your name
   discord:      "ariella_e"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Use 7segment to show "HELP""      # One line description of what your project does
+  description:  "Use 7segment to show 'HELP'"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
